@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'Thank You for opening your first issue in this repository. These help us make The big6 Project better.'
-        pr-message: 'Thank You for creating a pull request. These motivate us that the community is with us to help. Thanks again for your first contribution towards The big6 Project's Python Backend.'
+        pr-message: "Thank You for creating a pull request. These motivate us that the community is with us to help. Thanks again for your first contribution towards The big6 Project's Python Backend."
